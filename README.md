@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fraunces&weight=500&size=54&duration=2200&pause=99999&color=C2703D&center=true&vCenter=true&repeat=false&width=720&height=90&lines=Renan+Cordeiro%3B" alt="Renan Cordeiro;">
+<img src="https://readme-typing-svg.demolab.com?font=Fraunces&weight=500&size=54&duration=2200&pause=99999&color=C2703D&center=true&vCenter=true&repeat=false&width=720&height=90&lines=Renan+Cordeiro" alt="Renan Cordeiro">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fraunces&weight=400&size=21&duration=3800&pause=1400&color=8B949E&center=true&vCenter=true&width=640&lines=I+build+for+the+web+by+day%3B;small+tools+for+the+joy+of+it%3B;and+try+to+keep+both+simple." alt="I build for the web by day; small tools for the joy of it; and try to keep both simple.">
+<img src="https://readme-typing-svg.demolab.com?font=Fraunces&weight=400&size=21&duration=3000&pause=1600&color=8B949E&center=true&vCenter=true&width=640&lines=web+developer;maker+of+small+tools;keeping+things+simple" alt="web developer · maker of small tools · keeping things simple">
 
 <br><br>
 
