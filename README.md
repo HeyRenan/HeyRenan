@@ -39,13 +39,10 @@ I care about legible code, honest interfaces and tools that do one thing well.
 <h3 align="center">Lately</h3>
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=HeyRenan&show_icons=true&include_all_commits=true&count_private=true&bg_color=00000000&title_color=c2703d&text_color=8b949e&icon_color=c2703d&hide_border=true&hide_rank=true&custom_title=Numbers" alt="GitHub stats">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=HeyRenan&show_icons=true&bg_color=00000000&title_color=c2703d&text_color=8b949e&icon_color=c2703d&hide_border=true&hide_rank=true&custom_title=Numbers" alt="GitHub stats">
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HeyRenan&layout=compact&langs_count=6&custom_title=Languages&bg_color=00000000&title_color=c2703d&text_color=8b949e&hide_border=true" alt="Top languages">
 </div>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=HeyRenan&background=00000000&hide_border=true&ring=c2703d&fire=c2703d&currStreakLabel=c2703d&sideLabels=8b949e&dates=8b949e&currStreakNum=8b949e&sideNums=8b949e&stroke=30363d" alt="Contribution streak">
-</div>
 
 <br>
 
