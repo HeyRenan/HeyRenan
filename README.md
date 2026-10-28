@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:2b1a10&height=170&text=Renan%20Cordeiro&fontColor=e6edf3&fontSize=46&fontAlignY=42&desc=;&descSize=30&descAlignY=72&descAlign=50" width="100%" alt="Renan Cordeiro">
+<img src="https://readme-typing-svg.demolab.com?font=Fraunces&weight=500&size=54&duration=2200&pause=99999&color=C2703D&center=true&vCenter=true&repeat=false&width=720&height=90&lines=Renan+Cordeiro%3B" alt="Renan Cordeiro;">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fraunces&weight=400&size=21&duration=3800&pause=1400&color=8B949E&center=true&vCenter=true&width=640&lines=I+build+for+the+web+by+day%3B;small+tools+for+the+joy+of+it%3B;and+try+to+keep+both+simple." alt="I build for the web by day; small tools for the joy of it; and try to keep both simple.">
 
@@ -39,8 +39,8 @@ I care about legible code, honest interfaces and tools that do one thing well.
 <h3 align="center">Lately</h3>
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=HeyRenan&show_icons=true&include_all_commits=true&count_private=true&bg_color=00000000&title_color=c2703d&text_color=8b949e&icon_color=c2703d&hide_border=true&hide_rank=true" alt="GitHub stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HeyRenan&layout=compact&langs_count=6&bg_color=00000000&title_color=c2703d&text_color=8b949e&hide_border=true" alt="Top languages">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=HeyRenan&show_icons=true&include_all_commits=true&count_private=true&bg_color=00000000&title_color=c2703d&text_color=8b949e&icon_color=c2703d&hide_border=true&hide_rank=true&custom_title=Numbers" alt="GitHub stats">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HeyRenan&layout=compact&langs_count=6&custom_title=Languages&bg_color=00000000&title_color=c2703d&text_color=8b949e&hide_border=true" alt="Top languages">
 </div>
 
 <div align="center">
@@ -53,5 +53,3 @@ I care about legible code, honest interfaces and tools that do one thing well.
   <a href="https://www.linkedin.com/in/renancordeirosanto/"><sub>linkedin</sub></a>
   <sub>&nbsp;·&nbsp; paraibuna, brazil</sub>
 </p>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2b1a10,100:0d1117&height=4" width="100%" alt="">
